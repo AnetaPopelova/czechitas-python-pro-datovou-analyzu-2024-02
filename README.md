@@ -31,9 +31,9 @@ Pokyny pro instalaci najdete zde: [Instalace modulu](https://kodim.cz/analyza-da
 
 | Datum       | Téma                                                      | Odkaz na materiály                          | Odkaz na domácí úkol                        |
 |-------------|-----------------------------------------------------------|---------------------------------------------|---------------------------------------------|
-| 01.02.2023  | `Jupyter` notebooky, Načtení dat s využitím knihovny `pandas` | [Materiály lekce 1](notebooks/lekce-01) | [Domácí úkol lekce 1](https://example.com/ukoly/lekce1) | 
-| 08.02.2023  | Podmíněný výběr v `pandas`                                    | [Materiály lekce 2](notebooks/lekce-02) | [Domácí úkol lekce 2](https://example.com/ukoly/lekce2) |
-| 15.02.2023  | Propojování tabulek, agregace dat a řazení | [Materiály lekce 3](notebooks/lekce-03) | [Domácí úkol lekce 3](https://example.com/ukoly/lekce3) |
-| 22.02.2023  | Vizualizace s využitím knihovny `seaborn`                   | [Materiály lekce 4](notebooks/lekce-04) | [Domácí úkol lekce 4](https://example.com/ukoly/lekce4) |
-| 01.03.2023  | Datum a čas, metoda `shift`, pivot tabulky                  | [Materiály lekce 5](notebooks/lekce-05) | [Domácí úkol lekce 5](https://example.com/ukoly/lekce5) |
-| 08.03.2023  | Datová analýza s využitím AI nástrojů                     | [Materiály lekce 6](notebooks/lekce-06) | [Domácí úkol lekce 6](https://example.com/ukoly/lekce6) |
+| 01.02.2023  | `Jupyter` notebooky, Načtení dat s využitím knihovny `pandas` | [Materiály lekce 1](notebooks/lekce-01) | [Domácí úkol lekce 1](https://open.openclass.ai/resource/quiz-65b8c877ec5bad3cbf95482b?demo=_Azpi9XhfA6tVg&back=builder) | 
+| 08.02.2023  | Podmíněný výběr v `pandas`                                    | [Materiály lekce 2](notebooks/lekce-02) |  |
+| 15.02.2023  | Propojování tabulek, agregace dat a řazení | [Materiály lekce 3](notebooks/lekce-03) |  |
+| 22.02.2023  | Vizualizace s využitím knihovny `seaborn`                   | [Materiály lekce 4](notebooks/lekce-04) |  |
+| 01.03.2023  | Datum a čas, metoda `shift`, pivot tabulky                  | [Materiály lekce 5](notebooks/lekce-05) |  |
+| 08.03.2023  | Datová analýza s využitím AI nástrojů                     | [Materiály lekce 6](notebooks/lekce-06) |  |
