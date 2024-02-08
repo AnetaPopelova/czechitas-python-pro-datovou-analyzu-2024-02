@@ -31,8 +31,8 @@ Pokyny pro instalaci najdete zde: [Instalace modulu](https://kodim.cz/analyza-da
 
 | Datum       | Téma                                                      | Odkaz na materiály                          | Odkaz na domácí úkol                        |
 |-------------|-----------------------------------------------------------|---------------------------------------------|---------------------------------------------|
-| 01.02.2023  | `Jupyter` notebooky, Načtení dat s využitím knihovny `pandas` | [Materiály lekce 1](notebooks/lekce-01) | [Domácí úkol lekce 1](https://open.openclass.ai/resource/quiz-65b8c877ec5bad3cbf95482b?demo=_Azpi9XhfA6tVg&back=builder) | 
-| 08.02.2023  | Podmíněný výběr v `pandas`                                    | [Materiály lekce 2](notebooks/lekce-02) |  |
+| 01.02.2023  | `Jupyter` notebooky, Načtení dat s využitím knihovny `pandas` | [Materiály lekce 1](notebooks/lekce-01) | [kvíz](https://open.openclass.ai/resource/quiz-65b8c877ec5bad3cbf95482b?demo=_Azpi9XhfA6tVg&back=builder) | 
+| 08.02.2023  | Podmíněný výběr v `pandas`                                    | [Materiály lekce 2](notebooks/lekce-02) | [kvíz](https://open.openclass.ai/resource/quiz-65bbf1ffea6b442b7cccb462/share?code=WuCWisokDLJFKw) |
 | 15.02.2023  | Propojování tabulek, agregace dat a řazení | [Materiály lekce 3](notebooks/lekce-03) |  |
 | 22.02.2023  | Vizualizace s využitím knihovny `seaborn`                   | [Materiály lekce 4](notebooks/lekce-04) |  |
 | 01.03.2023  | Datum a čas, metoda `shift`, pivot tabulky                  | [Materiály lekce 5](notebooks/lekce-05) |  |
