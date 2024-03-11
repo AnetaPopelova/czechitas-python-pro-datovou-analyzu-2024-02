@@ -35,5 +35,5 @@ Pokyny pro instalaci najdete zde: [Instalace modulu](https://kodim.cz/analyza-da
 | 08.02.2024  | Podmíněný výběr v `pandas`                                    | [Materiály lekce 2](notebooks/lekce-02) | [kvíz](https://open.openclass.ai/resource/quiz-65bbf1ffea6b442b7cccb462/share?code=WuCWisokDLJFKw) |
 | 15.02.2024  | Propojování tabulek, agregace dat a řazení | [Materiály lekce 3](notebooks/lekce-03) | [kvíz](https://open.openclass.ai/resource/quiz-65c0d8c7097b9277ed7f1def/share?code=lRCQ8vVNgi3N-A) |
 | 22.02.2024  | Vizualizace s využitím knihovny `seaborn`                   | [Materiály lekce 4](notebooks/lekce-04) | [kvíz](https://open.openclass.ai/resource/quiz-65ca230384bee2378afd415f/share?code=vaZCM4ihP-h2GA) |
-| 29.02.2024  | Datum a čas, metoda `shift`, pivot tabulky                  | [Materiály lekce 5](notebooks/lekce-05) |  |
-| 07.03.2024  | Datová analýza s využitím AI nástrojů                     | [Materiály lekce 6](notebooks/lekce-06) |  |
+| 29.02.2024  | Datum a čas, metoda `shift`, pivot tabulky                  | [Materiály lekce 5](https://kodim.cz/czechitas/python-data-1/python-pro-data-1/pivot-tabulky/funkce-pivot) | [kvíz](https://open.openclass.ai/resource/quiz-65e0e4d1679ff5c71a060354?code=8rkNxObeyNMCuA)  |
+| 07.03.2024  | Datová analýza s využitím AI nástrojů                     | [Materiály lekce 6](https://kodim.cz/czechitas/python-data-1/python-pro-data-1/datum-cas-shift/datum-cas) | [kvíz](https://open.openclass.ai/resource/quiz-65ea167b2127e73bae40bde0?code=ALpqDYbhIx_KEA) |
